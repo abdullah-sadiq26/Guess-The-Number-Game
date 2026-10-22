@@ -1,0 +1,2 @@
+The correct number is greater than your guess.
+The correct number is lesser than your guess.
